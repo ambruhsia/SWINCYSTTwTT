@@ -19,19 +19,13 @@ This project implements a PCOS classification model using the Swin Transformer a
 ## Model Details
 - **Model Type**: Swin Transformer
 - **Base Model**: swin_base_patch4_window7_224
-- **Number of Classes**: 2
-- **Input Size**: 224x224
 - **Classes**: 
   - Not Infected
   - Infected
 - **Framework Versions**:
   - PyTorch: 2.5.1+cu121
   - timm: 1.0.12
-
-## Usage
-To run the application, use the following command:
-```bash
-uvicorn swincyst.app:app --host 0.0.0.0 --port 8000
+0.0.0 --port 8000
 ```
 
 ## License
