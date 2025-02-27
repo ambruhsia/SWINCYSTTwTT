@@ -27,8 +27,3 @@ This project implements a PCOS classification model using the Swin Transformer a
   - timm: 1.0.12
 0.0.0 --port 8000
 ```
-
-## License
-This project is licensed under the MIT License.
-# swincystTTwTT
-# swincystTTwTT
